@@ -1,5 +1,5 @@
 ## Overview
-Team Settlement Stalkers' final project for CS175.
+Team Settlement Stalkers' final project for CS175. (New Repo as the other repo was privated by UCI)
 
 Approach: Train YOLO on combinations of bands to directly detect settlements without electricity.
 
